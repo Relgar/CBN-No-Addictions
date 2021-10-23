@@ -1,0 +1,30 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "marloss_berry",
+    "name": { "str": "marloss berry", "str_pl": "marloss berries" },
+    "copy-from": "marloss_berry",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "marloss_gel",
+    "name": { "str_sp": "marloss gelatin" },
+    "copy-from": "marloss_gel",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "foodplace_food",
+    "name": { "str_sp": "Foodplace's delicious food™" },
+    "copy-from": "foodplace_food",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "coffee_raw",
+    "name": { "str_sp": "coffee powder" },
+    "copy-from": "coffee_raw",
+    "addiction_potential": 0
+  }
+]

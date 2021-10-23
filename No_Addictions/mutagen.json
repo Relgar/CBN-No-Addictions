@@ -1,0 +1,65 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "abstract": "mutagen_flavor",
+    "name": { "str": "abstract mutagen flavor" },
+    "copy-from": "mutagen_flavor",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "abstract": "iv_mutagen_flavor",
+    "name": { "str": "abstract iv mutagen flavor" },
+    "copy-from": "iv_mutagen_flavor",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "iv_mutagen",
+    "name": "mutagenic serum",
+    "copy-from": "iv_mutagen",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "iv_mutagen_chimera",
+    "name": "chimera serum",
+    "copy-from": "iv_mutagen_chimera",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "mutagen",
+    "name": "mutagen",
+    "copy-from": "mutagen",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "purifier",
+    "name": "purifier",
+    "copy-from": "purifier",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "iv_purifier",
+    "name": "purifier serum",
+    "copy-from": "iv_purifier",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "taint_tornado",
+    "name": "tainted tornado",
+    "copy-from": "taint_tornado",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_sewerbrew",
+    "name": "sewer brew",
+    "copy-from": "drink_sewerbrew",
+    "addiction_potential": 0
+  }
+]

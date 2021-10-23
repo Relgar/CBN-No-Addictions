@@ -1,0 +1,9 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "coffee_syrup",
+    "name": { "str_sp": "coffee syrup" },
+    "copy-from": "coffee_syrup",
+    "addiction_potential": 0
+  }
+]

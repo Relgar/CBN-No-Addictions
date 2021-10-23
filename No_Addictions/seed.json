@@ -1,0 +1,16 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "marloss_seed",
+    "name": { "str": "Marloss seed" },
+    "copy-from": "marloss_seed",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "coffee_bean",
+    "name": { "str_sp": "coffee beans" },
+    "copy-from": "coffee_bean",
+    "addiction_potential": 0
+  }
+]

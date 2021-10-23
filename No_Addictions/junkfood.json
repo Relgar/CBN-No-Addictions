@@ -1,0 +1,9 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "choco_coffee_beans",
+    "name": "chocolate-covered coffee bean",
+    "copy-from": "choco_coffee_beans",
+    "addiction_potential": 0
+  }
+]

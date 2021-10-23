@@ -1,0 +1,37 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "wash_whiskey",
+    "name": { "str": "whiskey wash", "str_pl": "whiskey washes" },
+    "copy-from": "wash_whiskey",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "gin_mash",
+    "name": { "str": "gin mash", "str_pl": "gin mashes" },
+    "copy-from": "gin_mash",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "wash_vodka",
+    "name": { "str": "vodka wash", "str_pl": "vodka washes" },
+    "copy-from": "wash_vodka",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "wash_rum",
+    "name": { "str": "rum wash", "str_pl": "rum washes" },
+    "copy-from": "wash_rum",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "wash_moonshine",
+    "name": { "str": "moonshine wash", "str_pl": "moonshine washes" },
+    "copy-from": "wash_moonshine",
+    "addiction_potential": 0
+  }
+]

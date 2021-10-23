@@ -1,0 +1,65 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "atomic_coffee",
+    "name": { "str_sp": "atomic coffee" },
+    "copy-from": "atomic_coffee",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "coffee",
+    "name": { "str_sp": "coffee" },
+    "copy-from": "coffee",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "cola",
+    "name": "dark cola",
+    "copy-from": "cola",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "colamdew",
+    "name": "energy cola",
+    "copy-from": "colamdew",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "creamsoda",
+    "name": "cream soda",
+    "copy-from": "creamsoda",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "energy_drink",
+    "name": "energy drink",
+    "copy-from": "energy_drink",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "energy_drink_atomic",
+    "name": { "str": "atomic energy drink" },
+    "copy-from": "energy_drink_atomic",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "milk_coffee",
+    "name": "coffee milk",
+    "copy-from": "milk_coffee",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "spezi",
+    "name": "spezi",
+    "copy-from": "spezi",
+    "addiction_potential": 0
+  }
+ ]
