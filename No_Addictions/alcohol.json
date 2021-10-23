@@ -1,0 +1,338 @@
+[
+	{
+	"type": "COMESTIBLE",
+    "id": "wine_mycus",
+    "copy-from": "wine_mycus",
+    "name": { "str_sp": "marloss wine" },
+    "addiction_potential": 0
+	},
+	{
+	"type": "COMESTIBLE",
+    "id": "wine_riesling",
+    "copy-from": "wine_riesling",
+    "name": { "str_sp": "Riesling" },
+    "addiction_potential": 0
+	},
+	{
+	"type": "COMESTIBLE",
+    "id": "wine_chardonnay",
+    "copy-from": "wine_chardonnay",
+    "name": { "str_sp": "Chardonnay" },
+    "addiction_potential": 0
+	},
+	{
+	"type": "COMESTIBLE",
+    "id": "wine_cabernet",
+    "copy-from": "wine_cabernet",
+    "name": { "str_sp": "Cabernet Sauvignon" },
+    "addiction_potential": 0
+	},
+	{
+	"type": "COMESTIBLE",
+    "id": "wine_noir",
+    "copy-from": "wine_noir",
+    "name": { "str_sp": "pinot noir" },
+    "addiction_potential": 0
+	},
+  {
+    "type": "COMESTIBLE",
+    "id": "wine_marsala",
+    "copy-from": "wine_marsala",
+    "name": { "str_sp": "marsala" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "wine_vermouth",
+    "copy-from": "wine_vermouth",
+    "name": { "str_sp": "vermouth" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "wine_barley",
+    "copy-from": "wine_barley",
+    "name": { "str_sp": "barley wine" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "whiskey",
+    "copy-from": "whiskey",
+    "name": { "str_sp": "whiskey" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "vodka",
+    "copy-from": "vodka",
+    "name": { "str_sp": "vodka" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "gin",
+    "copy-from": "gin",
+    "name": { "str_sp": "gin" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "rum",
+    "copy-from": "rum",
+    "name": { "str_sp": "rum" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "tequila",
+    "copy-from": "tequila",
+    "name": { "str_sp": "tequila" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "triple_sec",
+    "copy-from": "triple_sec",
+    "name": { "str_sp": "triple sec" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "bum_wine",
+    "copy-from": "bum_wine",
+    "name": { "str_sp": "cheap wine" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "mixed_alcohol_strong",
+    "copy-from": "mixed_alcohol_strong",
+    "name": { "str_sp": "strong mixed alcohol" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "mixed_alcohol_weak",
+    "copy-from": "mixed_alcohol_weak",
+    "name": { "str_sp": "weak mixed alcohol" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "fruit_wine",
+    "copy-from": "fruit_wine",
+    "name": { "str_sp": "fruit wine" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "brandy",
+    "copy-from": "brandy",
+    "name": { "str_sp": "brandy" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "irish_coffee",
+    "copy-from": "irish_coffee",
+    "name": { "str_sp": "Irish coffee" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "long_island",
+    "copy-from": "long_island",
+    "name": { "str_sp": "Long Island iced tea" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_screwdriver",
+    "copy-from": "drink_screwdriver",
+    "name": "screwdriver cocktail",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_wild_apple",
+    "copy-from": "drink_wild_apple",
+    "name": { "str_sp": "wild apple" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_rumcola",
+    "copy-from": "drink_rumcola",
+    "name": { "str_sp": "rum & cola" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "beer",
+    "copy-from": "beer",
+    "name": { "str_sp": "beer" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "mead",
+    "copy-from": "mead",
+    "name": { "str_sp": "spiced mead" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "dandelion_wine",
+    "copy-from": "dandelion_wine",
+    "name": { "str_sp": "dandelion wine" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "burdock_wine",
+    "copy-from": "burdock_wine",
+    "name": { "str_sp": "burdock wine" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "pine_wine",
+    "copy-from": "pine_wine",
+    "name": { "str_sp": "pine wine" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "hb_beer",
+    "copy-from": "hb_beer",
+    "name": { "str_sp": "homebrew beer" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "moonshine",
+    "copy-from": "moonshine",
+    "name": { "str_sp": "moonshine" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "european_pilsner",
+    "copy-from": "european_pilsner",
+    "name": { "str_sp": "European pilsner" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "pale_ale",
+    "copy-from": "pale_ale",
+    "name": { "str_sp": "American pale ale" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "india_pale_ale",
+    "copy-from": "india_pale_ale",
+    "name": { "str_sp": "India pale ale" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "stout",
+    "copy-from": "stout",
+    "name": { "str_sp": "stout" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "belgian_ale",
+    "copy-from": "belgian_ale",
+    "name": { "str_sp": "Belgian ale" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "imperial_stout",
+    "copy-from": "imperial_stout",
+    "name": { "str_sp": "imperial stout" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_strawberry_surprise",
+    "copy-from": "drink_strawberry_surprise",
+    "name": { "str_sp": "imperial stout" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_boozeberry",
+    "copy-from": "drink_boozeberry",
+    "name": { "str": "boozeberry", "str_pl": "boozeberries" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "single_malt_whiskey",
+    "copy-from": "single_malt_whiskey",
+    "name": { "str_sp": "single malt whiskey" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "sherry",
+    "copy-from": "sherry",
+    "name": { "str_sp": "sherry" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_hobo",
+    "copy-from": "drink_hobo",
+    "name": { "str_sp": "fancy hobo" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_kalimotxo",
+    "copy-from": "drink_kalimotxo",
+    "name": { "str_sp": "kalimotxo" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_beeknees",
+    "copy-from": "drink_beeknees",
+    "name": { "str_sp": "bee's knees" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_wsour",
+    "copy-from": "drink_wsour",
+    "name": "whiskey sour",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "honey_ant",
+    "copy-from": "honey_ant",
+    "name": "honey ball",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "eggnog_spiked",
+    "copy-from": "eggnog_spiked",
+    "name": "spiked eggnog",
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "drink_martini",
+    "copy-from": "drink_martini",
+    "name": "martini",
+    "addiction_potential": 0
+  }
+]

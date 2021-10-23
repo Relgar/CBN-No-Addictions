@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "No_Addictions",
+    "name": "No Addictions",
+    "description": "Zeroes out potential for addiction from default meds and alcohol.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ],
+	"obsolete": false
+  }
+]

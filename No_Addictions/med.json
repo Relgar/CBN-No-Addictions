@@ -1,0 +1,240 @@
+[
+  {
+    "id": "adderall",
+    "copy-from": "adderall",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "Adderall" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "caffeine",
+    "copy-from": "caffeine",
+    "type": "COMESTIBLE",
+    "name": "caffeine pill",
+    "addiction_potential": 0
+  },
+  {
+    "id": "chaw",
+    "copy-from": "chaw",
+    "type": "COMESTIBLE",
+    "name": "chewing tobacco",
+    "addiction_potential": 0
+  },
+  {
+    "id": "cig",
+    "copy-from": "cig",
+    "type": "COMESTIBLE",
+    "name": "cigarette",
+    "addiction_potential": 0
+  },
+  {
+    "id": "cigar",
+    "copy-from": "cigar",
+    "type": "COMESTIBLE",
+    "name": "cigar",
+    "addiction_potential": 0
+  },
+  {
+    "id": "codeine",
+    "copy-from": "codeine",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "codeine" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "coke",
+    "copy-from": "coke",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "cocaine" },
+    "addiction_potential": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "cola_meth",
+    "copy-from": "cola_meth",
+    "name": "methacola",
+    "addiction_potential": 0
+  },
+  {
+    "id": "crack",
+    "copy-from": "crack",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "crack" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "diazepam",
+    "copy-from": "diazepam",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "diazepam" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "hi_q_shatter",
+    "copy-from": "hi_q_shatter",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "high quality shatter" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "hi_q_wax",
+    "copy-from": "hi_q_wax",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "high quality wax" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "hi_q_distillate_heads",
+    "copy-from": "hi_q_distillate_heads",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "high quality distillate (heads)" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "hi_q_distillate_tails",
+    "copy-from": "hi_q_distillate_tails",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "high quality distillate (tails)" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "hi_q_distillate",
+    "copy-from": "hi_q_distillate",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "high quality distillate" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "hi_q_distillate_cart",
+    "copy-from": "hi_q_distillate_cart",
+    "type": "COMESTIBLE",
+    "name": { "str": "high quality distillate cartridge" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "ecig",
+    "copy-from": "ecig",
+    "type": "COMESTIBLE",
+    "name": "electronic cigarette",
+    "addiction_potential": 0
+  },
+  {
+    "id": "handrolled_cig",
+    "copy-from": "handrolled_cig",
+    "type": "COMESTIBLE",
+    "name": "hand-rolled cigarette",
+    "addiction_potential": 0
+  },
+  {
+    "id": "heroin",
+    "copy-from": "heroin",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "heroin" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "joint",
+    "copy-from": "joint",
+    "type": "COMESTIBLE",
+    "name": "joint",
+    "addiction_potential": 0
+  },
+  {
+    "id": "meth",
+    "copy-from": "meth",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "low-grade methamphetamine" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "morphine",
+    "copy-from": "morphine",
+    "type": "COMESTIBLE",
+    "name": "morphine",
+    "addiction_potential": 0
+  },
+  {
+    "id": "nic_gum",
+    "copy-from": "nic_gum",
+    "type": "COMESTIBLE",
+    "name": "nicotine gum",
+    "addiction_potential": 0
+  },
+  {
+    "id": "nyquil",
+    "copy-from": "nyquil",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "cough syrup" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "oxycodone",
+    "copy-from": "oxycodone",
+    "type": "COMESTIBLE",
+    "name": "oxycodone",
+    "addiction_potential": 0
+  },
+  {
+    "id": "pills_sleep",
+    "copy-from": "pills_sleep",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "Ambien" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "poppy_pain",
+    "copy-from": "poppy_pain",
+    "type": "COMESTIBLE",
+    "name": "poppy painkiller",
+    "addiction_potential": 0
+  },
+  {
+    "id": "poppy_sleep",
+    "copy-from": "poppy_sleep",
+    "type": "COMESTIBLE",
+    "name": "poppy sleep",
+    "addiction_potential": 0
+  },
+  {
+    "id": "poppysyrup",
+    "copy-from": "poppysyrup",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "poppy cough syrup" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "prozac",
+    "copy-from": "prozac",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "Prozac" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "tobacco",
+    "copy-from": "tobacco",
+    "type": "COMESTIBLE",
+    "name": "rolling tobacco",
+    "addiction_potential": 0
+  },
+  {
+    "id": "tramadol",
+    "copy-from": "tramadol",
+    "type": "COMESTIBLE",
+    "name": "tramadol",
+    "addiction_potential": 0
+  },
+  {
+    "id": "weed",
+    "copy-from": "weed",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "marijuana" },
+    "addiction_potential": 0
+  },
+  {
+    "id": "xanax",
+    "copy-from": "xanax",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "Xanax" },
+    "addiction_potential": 0
+  }
+]
