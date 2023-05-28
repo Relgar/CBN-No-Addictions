@@ -3,9 +3,11 @@
     "type": "MOD_INFO",
     "id": "No_Addictions",
     "name": "No Addictions",
+	"authors": [ "Relgar" ],
+    "maintainers": [ "Relgar" ],
     "description": "Zeroes out potential for addiction from default comestibles.",
     "category": "rebalance",
-    "dependencies": [ "dda" ],
+    "dependencies": [ "bn" ],
 	"obsolete": false
   }
 ]
